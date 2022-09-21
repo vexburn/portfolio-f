@@ -22,3 +22,5 @@ VERSION:	Versoin Number
 @import 'templates/navigation.scss';
 
 @import 'templates/main.scss';
+
+div.col-lg-8:nth-child(2) {display:none}
