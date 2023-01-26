@@ -9,22 +9,22 @@ type = "post"
 
 Hello again!
 
-Our Rebuild of the robot has progressed quite a bit and it has already competed in its first competition.
+Our Rebuild of the robot has progressed quite a bit, and it has already competed in its first competition.
 
-During this rebuild we put an additional focus on Expansion, since we finally had pneumatics, which gave us an major points boost at the competition. It consisted of 4 Launchers that each fired a projectile tied to a string in a different direction to get the maximum spread. The projectiles are launched using rubberbands and get triggered by our pneumatics. The major issue with our expansion was its unreliability, since it sometimes didnt launch at all and in one case even expanded early, causing us to get disabled for that round.
+During this rebuild we put an additional focus on Expansion, since we finally had pneumatics, which gave us a major points boost at the competition. It consisted of 4 Launchers that each fired a projectile tied to a string in a different direction to get the maximum spread. The projectiles are launched using rubber bands and get triggered by our pneumatics. The major issue with our expansion was its unreliability, since it sometimes didn't launch at all and in one case even expanded early, causing us to get disabled for that round.
 
-Throughout the competition our catapult did not fully function yet, which is why had to mainly focus on controlling the rollers. 
+Throughout the competition, our catapult did not fully function yet, which is why it had to mainly focus on controlling the rollers. 
 
 ![[Image Error]](../../images/post/catapult.webp)
 
-In theory our catapult can launch projectiles from both long and short distances, making it suitable for competitions that require both autonomous and driver-controlled skills, but it definetly still needs some fine tuning. During the competition we noticed that the slipgear wasnt filed correctly, which caused us to not be able to wind it up correctly to actually load it with disks. Although the intake mechanism has only undergone minor adjustments, we have replaced the tracks with 2-inch flexible wheels, which provide better propulsion for the disks. 
+In theory, our catapult can launch projectiles from both long and short distances, making it suitable for competitions that require both autonomous and driver-controlled skills, but it definitely still needs some fine-tuning. During the competition, we noticed that the slip gear wasn't filed correctly, which caused us to not be able to wind it up correctly to actually load it with disks. Although the intake mechanism has only undergone minor adjustments, we have replaced the tracks with 2-inch flexible wheels, which provide better propulsion for the disks. 
 
 ![](../../images/post/1.webp)
 ![](../../images/post/2.webp)
 
 ### The Competition 
 
-We performed better than anticipated at the competition in Southridge. Our skills runs 68 placed us 24th among 57 teams and we won and lost 3 matches each in the qualification rounds. This put us in 29th position after the qualifying matches.
+We performed better than anticipated at the competition in Southridge. Our skills run 68 placed us 24th among 57 teams, and we won and lost 3 matches each in the qualification rounds. This put us in 29th position after the qualifying matches.
 
 #### Driver and Programming Skills
 
